@@ -1,0 +1,29 @@
+_repo: From-Sea-to-Sea-Or-Clint-Webbs-Cruise-on-the-Windjammer_67495
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Foster, W. Bert (Walter Bertram)
+    alias: Foster, Walter Bertram
+    birthdate: 1869
+    gutenberg_agent_id: '25984'
+    url: http://www.gutenberg.org/2009/agents/25984
+description: ''
+gutenberg_issued: '2022-02-25'
+identifiers:
+  gutenberg: '67495'
+language: en
+pgterms:marc904: https://archive.org/details/fromseatosea00fost/page/n5/mode/2up
+pgterms:marc905: 20220113115937foster
+pgterms:marc906: '1914'
+pgterms:marc907: us
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by the Library of Congress)
+publication_note: United States :M. A. Donahue & Co.,1914.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'From Sea to Sea: Or, Clint Webb’s Cruise on the Windjammer'
+url: http://www.gutenberg.org/ebooks/67495
