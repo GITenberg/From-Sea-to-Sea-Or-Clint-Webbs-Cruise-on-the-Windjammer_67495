@@ -1,5 +1,8 @@
 _repo: From-Sea-to-Sea-Or-Clint-Webbs-Cruise-on-the-Windjammer_67495
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67495-h/images/cover.jpg
 creator:
   author:
     agent_name: Foster, W. Bert (Walter Bertram)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '25984'
     url: http://www.gutenberg.org/2009/agents/25984
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67495#From-Sea-to-Sea-Or-Clint-Webbs-Cruise-on-the-Windjammer
 gutenberg_issued: '2022-02-25'
 identifiers:
   gutenberg: '67495'
